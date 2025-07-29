@@ -1,4 +1,4 @@
-name = "github-contributions-worker"
+name = "github-commit-map"
 main = "src/index.ts"
 compatibility_date = "2025-07-29"
 
