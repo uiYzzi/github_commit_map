@@ -1,0 +1,12 @@
+name = "github-contributions-worker"
+main = "src/index.ts"
+compatibility_date = "2025-07-30"
+
+[vars]
+ENVIRONMENT = "production"
+
+[env.development]
+vars = { ENVIRONMENT = "development" }
+
+[env.staging]
+vars = { ENVIRONMENT = "staging" }

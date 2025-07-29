@@ -1,0 +1,5 @@
+# 开发环境变量示例
+# 复制此文件为 .dev.vars 并填入实际值
+
+# 示例：
+# ENVIRONMENT=development
